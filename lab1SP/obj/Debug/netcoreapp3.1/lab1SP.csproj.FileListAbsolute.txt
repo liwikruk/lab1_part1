@@ -1,0 +1,26 @@
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.exe
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.deps.json
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.runtimeconfig.json
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.runtimeconfig.dev.json
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.dll
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.pdb
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.csprojAssemblyReference.cache
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.AssemblyInfoInputs.cache
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.AssemblyInfo.cs
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.csproj.CoreCompileInputs.cache
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.dll
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.pdb
+C:\Users\liwikruk\source\repos\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.genruntimeconfig.cache
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.exe
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.deps.json
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.runtimeconfig.json
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.runtimeconfig.dev.json
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.dll
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\bin\Debug\netcoreapp3.1\lab1SP.pdb
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.csprojAssemblyReference.cache
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.AssemblyInfoInputs.cache
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.AssemblyInfo.cs
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.dll
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.pdb
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.genruntimeconfig.cache
+F:\Bodnar KI 3_2\кс\lab1\lab1SP\lab1SP\obj\Debug\netcoreapp3.1\lab1SP.csproj.CoreCompileInputs.cache

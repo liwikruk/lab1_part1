@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "OJ1fftpKDzYi4ekujaEWbpZukC1gfQpvXWgrFCw8ERA4XL7YsegaVOTLT3KA7JByl9oG+cgnxCIPEbJrt5fDrA==",
+  "success": true,
+  "projectFilePath": "F:\\Bodnar KI 3_2\\кс\\lab1\\lab1SP\\lab1SP\\lab1SP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\liwikruk\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
